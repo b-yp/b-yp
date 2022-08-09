@@ -1,1 +1,1 @@
-* blog: http://ypll.xyz
+* blog: ypll.xyz
