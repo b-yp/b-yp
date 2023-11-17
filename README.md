@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-yp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-yp&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-yp&layout=compact&theme=radical"/>
 <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff) 
